@@ -75,7 +75,7 @@ I practice bug bounty on platforms like HackerOne and document:
 ---
 
 ## 📬 Connect With Me  
-- **LinkedIn:** www.linkedin.com/in/bhavya-manvar-a502b823a 
+- **LinkedIn:** www.linkedin.com/in/bhavya-manvar
 - **Email:** bmanvar55@gmail.com  
 
 ---
