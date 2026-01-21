@@ -2,7 +2,7 @@
 
 I am passionate about **penetration testing, bug bounty hunting, offensive security, and security automation**.  
 
-This GitHub showcases my **real-world learning**, **security tools**, **automation projects** and **weekly hands-on practice** across:0
+This GitHub showcases my **real-world learning**, **security tools**, **automation projects** and **weekly hands-on practice**
 
 - 🧩 CTF platforms (Hack The Box, OffSec Proving Grounds)  
 - 🔐 Web security labs (PortSwigger, HackerOne Expert series)
