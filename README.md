@@ -12,7 +12,7 @@ This GitHub showcases my **real-world learning**, **security tools**, **automati
 ---
 
 ## 🚀 What I’m Currently Working On  
-- Practicing weekly CTF and penetration testing labs  
+- Practicing weekly CTF and penetration testing labs  .
 - Preparing for **OSCP**  
 - Advancing red-team skills (pivoting, privilege escalation, exploit development)
 
