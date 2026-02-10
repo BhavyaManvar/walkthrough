@@ -20,8 +20,8 @@ This GitHub showcases my **real-world learning**, **security tools**, **automati
 
 ## 📘 Weekly Learning Journal  
 I document my penetration testing progress in structured weekly writeups:
-👉 `/CTF-Progress/Week-01`  
-👉 `/CTF-Progress/Week-02`  
+👉 `/walkthrough/Week-01`  
+👉 `/walkthrough/Week-02`  
 *(updated every week)*
 
 Each journal includes:
